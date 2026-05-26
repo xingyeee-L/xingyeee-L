@@ -37,14 +37,3 @@
 ```
 
 ---
-
-### GitHub 数据
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xingyeee-L&theme=react&show_icons=true&hide_border=true&title_color=00FF9F&icon_color=FF6B6B&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingyeee-L&theme=react&hide_border=true&title_color=00FF9F&text_color=C9D1D9&layout=compact" />
-</p>
-
----
-
-> **用 ❤️ 和 ☕ 制作**

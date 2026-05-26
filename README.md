@@ -15,25 +15,29 @@
 
 ---
 
-### 你好
+### 👋 Welcome to my space!
 
-- 🔭 **当前** — 构建 LLM 应用 & 探索端侧 AI
-- 🌱 **学习中** — LLM 微调、RAG 系统
-- 📫 **联系我** — [2109837938@qq.com](mailto:2109837938@qq.com)
-
----
-
-### 技术栈
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  AI/ML                   │  后端              │  DevOps       ║
-╠══════════════════════════════════════════════════════════════╣
-║  ◉ PyTorch               │  ◉ Python          │  ◉ Docker     ║
-║  ◉ Transformers          │  ◉ FastAPI         │  ◉ Kubernetes ║
-║  ◉ LangChain/LlamaIndex  │  ◉ Node.js         │  ◉ CUDA       ║
-║  ◉ Ollama / vLLM         │  ◉ PostgreSQL      │               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+- 🔭 **Currently** — Building LLM applications & exploring On-Device AI / Edge intelligence.
+- 🌱 **Learning** — LLM fine-tuning & advanced RAG architectures.
+- 📫 **Reach Me** — [2109837938@qq.com](mailto:2109837938@qq.com)
 
 ---
+
+### 🛠️ Tech Stack / 技术栈
+
+#### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-00FF9F?style=flat-square&logo=vitess&logoColor=black)
+
+#### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nvidia CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)

@@ -1,49 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00FF9F&background=0D111700&center=true&vCenter=true&width=600&lines=There+is+only+one+true+heroism...;To+see+the+world+as+it+is,+and+to+love+it." alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <i>世界上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。 —— 罗曼·罗兰</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9F&background=0D111700&center=true&vCenter=true&width=500&lines=AI+Loves+You" alt="Typing SVG"/>
 </p>
 
 ---
-██████╗ ██╗ ██████╗███████╗ █████╗ ███╗ ██╗
-██╔══██╗██║██╔════╝██╔════╝██╔══██╗████╗ ██║
-██████╔╝██║██║ █████╗ ███████║██╔██╗ ██║
-██╔═══╝ ██║██║ ██╔══╝ ██╔══██║██║╚██╗██║
-██║ ██║╚██████╗███████╗██║ ██║██║ ╚████║
-╚═╝ ╚═╝ ╚═════╝╚══════╝╚═╝ ╚═╝╚═╝ ╚═══╝
-██████╗ ██████╗ ███╗ ███╗██▓ ███╗ ██▓ ▄▄▄█████▓
-██╔════╝██╔═══██╗████╗ ████║██▓ ████░ ██▓ ▓ ██▓ ▒
-██║ ██║ ██║██╔████╔██║██▓ ▒██▓ ▒██▒ █▒ ██▒ ▒
-██║ ██║ ██║██║▀▀█▀▀║██▓ ▒██▒ ▒██▒ █▒ ██▒ ░
-╚██████╗╚██████╔╝██║ ██░██▓ ░██░ ░██░ ▓██░▓██░
-╚═════╝ ╚═════╝ ╚═╝ ╚═╝▒▓ ░░░ ░░░ ▒██▒▒██▒
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-code
-Code
+___   ___  __  .__   __.   ___________    ____  _______  _______  _______ 
+\  \ /  / |  | |  \ |  |  /  _____\   \  /   / |   ____||   ____||   ____|
+ \  V  /  |  | |   \|  | |  |  __  \   \/   /  |  |__   |  |__   |  |__   
+  >   <   |  | |  . `  | |  | |_ |  \_    _/   |   __|  |   __|  |   __|  
+ /  .  \  |  | |  |\   | |  |__| |    |  |     |  |____ |  |____ |  |____ 
+/__/ \__\ |__| |__| \__|  \______|    |__|     |_______||_______||_______|
+__ . __ __ __ __ __ _ _ __ _ _ __ __ __ __ __ __ _ _ __ __ ___ __ _ __ __ ._ _ 
+                                                                          
+
 ---
 
-### 👋 Hello World / 你好
+### 你好
 
-- 🎓 **Incoming CS Master Student @ Germany 🇩🇪 
-- 🔭 **Currently** — Building LLM applications & exploring On-Device AI / Edge intelligence.
-- 🌱 **Learning** — LLM fine-tuning, advanced RAG architectures & Agentic workflows.
-- 📫 **Reach Me** — [2109837938@qq.com](mailto:2109837938@qq.com)
+- 🔭 **当前** — 构建 LLM 应用 & 探索端侧 AI
+- 🌱 **学习中** — LLM 微调、RAG 系统
+- 📫 **联系我** — [2109837938@qq.com](mailto:2109837938@qq.com)
 
 ---
 
 ### 技术栈
+
+```
 ╔══════════════════════════════════════════════════════════════╗
-║ AI/ML │ 后端 │ DevOps ║
+║  AI/ML                   │  后端              │  DevOps       ║
 ╠══════════════════════════════════════════════════════════════╣
-║ ◉ PyTorch │ ◉ Python │ ◉ Docker ║
-║ ◉ Transformers │ ◉ FastAPI │ ◉ Kubernetes ║
-║ ◉ LangChain/LlamaIndex │ ◉ Node.js │ ◉ CUDA ║
-║ ◉ Ollama / vLLM │ ◉ PostgreSQL │ ║
+║  ◉ PyTorch               │  ◉ Python          │  ◉ Docker     ║
+║  ◉ Transformers          │  ◉ FastAPI         │  ◉ Kubernetes ║
+║  ◉ LangChain/LlamaIndex  │  ◉ Node.js         │  ◉ CUDA       ║
+║  ◉ Ollama / vLLM         │  ◉ PostgreSQL      │               ║
 ╚══════════════════════════════════════════════════════════════╝
-code
-Code
+```
+
 ---
 
 ### GitHub 数据
@@ -55,4 +46,4 @@ Code
 
 ---
 
-> **Made with ❤️ and ☕**
+> **用 ❤️ 和 ☕ 制作**
